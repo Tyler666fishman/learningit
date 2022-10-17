@@ -1,0 +1,3 @@
+the first time open terminal
+the first time learning the Git
+
