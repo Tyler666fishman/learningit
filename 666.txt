@@ -1,3 +1,4 @@
 the first time open terminal
 the first time learning the Git
+the third time learn git diff.
 the second time to add something now
