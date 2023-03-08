@@ -5,4 +5,8 @@ Git has a mutable index called stage.
 Git is my first thing need to learn.
 Git tracks changes of the file.
 Creat a new branch is quickly.
-Git create a new branch is quick & simple
+<<<<<<< HEAD
+Git create a new branch is quick and simple
+=======
+Git create a new branch is quick and simple
+>>>>>>> featurel
